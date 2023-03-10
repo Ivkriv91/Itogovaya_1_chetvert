@@ -1,0 +1,15 @@
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/Itogovaya/Kontrol_1/bin/Debug/net6.0/Kontrol_1
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/Itogovaya/Kontrol_1/bin/Debug/net6.0/Kontrol_1.deps.json
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/Itogovaya/Kontrol_1/bin/Debug/net6.0/Kontrol_1.runtimeconfig.json
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/Itogovaya/Kontrol_1/bin/Debug/net6.0/Kontrol_1.dll
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/Itogovaya/Kontrol_1/bin/Debug/net6.0/Kontrol_1.pdb
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/Itogovaya/Kontrol_1/obj/Debug/net6.0/Kontrol_1.csproj.AssemblyReference.cache
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/Itogovaya/Kontrol_1/obj/Debug/net6.0/Kontrol_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/Itogovaya/Kontrol_1/obj/Debug/net6.0/Kontrol_1.AssemblyInfoInputs.cache
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/Itogovaya/Kontrol_1/obj/Debug/net6.0/Kontrol_1.AssemblyInfo.cs
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/Itogovaya/Kontrol_1/obj/Debug/net6.0/Kontrol_1.csproj.CoreCompileInputs.cache
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/Itogovaya/Kontrol_1/obj/Debug/net6.0/Kontrol_1.dll
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/Itogovaya/Kontrol_1/obj/Debug/net6.0/refint/Kontrol_1.dll
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/Itogovaya/Kontrol_1/obj/Debug/net6.0/Kontrol_1.pdb
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/Itogovaya/Kontrol_1/obj/Debug/net6.0/Kontrol_1.genruntimeconfig.cache
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/Itogovaya/Kontrol_1/obj/Debug/net6.0/ref/Kontrol_1.dll
